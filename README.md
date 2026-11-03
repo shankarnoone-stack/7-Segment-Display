@@ -31,9 +31,9 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 | [TM1637]([https://www.amazon.com/dp/B0BLG7R99R](https://www.amazon.com/dp/B0F4PSNH94)) | 1 | $7.49 | Amazon |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 2 | $0.72 | Amazon |
 | [PCB](https://jlcpcb.com/)| 1 | $4 | JLCPCB |
-| [Female Header]((https://www.amazon.com/gp/product/B0F3CZVSPJ))| 1 | $5.99 | Amazon |
+| [Female Header]((https://www.amazon.com/gp/product/B0F3CZVSPJ))| 1 | $0.05 | Amazon |
 
-- **Parts Subtotal:** $27.31
+- **Parts Subtotal:** $21.37
 - **Tax & Shipping:** $7.75 (Including PCB manufacturing shipping/taxes)
 
 

@@ -29,7 +29,7 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 | [0.96-inch OLED Display](https://www.amazon.com/Display-SSD1306-Self-Luminous-Compatible-Raspberry/dp/B0GBWXTR1Z)| 1 | $6 | Amazon |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY)| 1 | $2.40 | Amazon |
 | [TM1637]([https://www.amazon.com/dp/B0BLG7R99R](https://www.amazon.com/dp/B0F4PSNH94)) | 1 | $7.49 | Amazon |
-| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 2 | $0.72 | Amazon |
+| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 1 | $8.99 | Amazon |
 | [PCB](https://jlcpcb.com/)| 1 | $7.75 | JLCPCB |
 
 - **Parts Subtotal:** 28.19

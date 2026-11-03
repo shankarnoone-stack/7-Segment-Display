@@ -26,14 +26,15 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 | Part| Quantity | Price | Vendor |
 |---|---:|---:|---|
 | [Raspberry Pi Pico]([https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html](https://www.adafruit.com/product/4883))| 1 |$5| AdaFruit |
-| [0.96-inch OLED Display](https://www.amazon.com/Display-SSD1306-Self-Luminous-Compatible-Raspberry/dp/B0GBWXTR1Z)| 1 | $6 | Amazon |
+| [Rotary Encoder](https://www.amazon.com/gp/product/B07D3DF8TK)| 1 | $0.99 | Amazon |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY)| 1 | $2.40 | Amazon |
 | [TM1637]([https://www.amazon.com/dp/B0BLG7R99R](https://www.amazon.com/dp/B0F4PSNH94)) | 1 | $7.49 | Amazon |
-| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 1 | $8.99 | Amazon |
-| [PCB](https://jlcpcb.com/)| 1 | $7.75 | JLCPCB |
+| [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 2 | $0.72 | Amazon |
+| [PCB](https://jlcpcb.com/)| 1 | $4 | JLCPCB |
+| [Female Header]((https://www.amazon.com/gp/product/B0F3CZVSPJ))| 1 | $5.99 | Amazon |
 
-- **Parts Subtotal:** 28.19
-- **Tax & Shipping:** $21.44 (Including PCB manufacturing shipping/taxes)
+- **Parts Subtotal:** $27.31
+- **Tax & Shipping:** $7.75 (Including PCB manufacturing shipping/taxes)
 
 
 ## Repository contents

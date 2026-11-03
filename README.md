@@ -33,7 +33,7 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 | [PCB](https://jlcpcb.com/)| 1 | $4 | JLCPCB |
 | [Female Header](https://www.amazon.com/gp/product/B0F3CZVSPJ)| 1 | $0.05 | Amazon |
 
-- **Parts Subtotal:** $19.15
+- **Parts Subtotal:** $17.59
 - **Tax & Shipping:** $7.75 (Including PCB manufacturing shipping/taxes)
 
 

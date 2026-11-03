@@ -11,7 +11,7 @@ I designed the schematic and PCB in KiCad, routed the traces, and built the firm
 
 ## What it is
 
-TimerSwitch is a small timer designed to store multiple timers inside it. It's features include changing the smount of time you want to set, alternating between timers, and keeping track of how much time is passing.
+TimerSwitch is a small timer designed to store multiple sets of timers inside it. Its features include changing the smount of time you want to set, alternating between timers, and keeping track of how much time is passing.
 
 ## How?
 

@@ -28,12 +28,12 @@ I looked towards amazon for my parts, and used JLCPCB for my PCB vendor. For my 
 | [Raspberry Pi Pico](https://www.adafruit.com/product/4883)| 1 |$5| AdaFruit |
 | [Rotary Encoder](https://www.amazon.com/gp/product/B07D3DF8TK)| 1 | $0.99 | Amazon |
 | [Keycaps](https://www.amazon.com/dp/B0CQ2VLMVY)| 1 | $2.40 | Amazon |
-| [TM1637](https://www.amazon.com/dp/B0F4PSNH94) | 1 | $7.49 | Amazon |
+| [TM1637](https://www.amazon.com/gp/product/B0BXKLZJMV) | 1 | $5.99 | Amazon |
 | [MX Switches](https://www.amazon.com//dp/B0FQP8VYX4)| 2 | $0.72 | Amazon |
 | [PCB](https://jlcpcb.com/)| 1 | $4 | JLCPCB |
 | [Female Header](https://www.amazon.com/gp/product/B0F3CZVSPJ)| 1 | $0.05 | Amazon |
 
-- **Parts Subtotal:** $21.37
+- **Parts Subtotal:** $19.87
 - **Tax & Shipping:** $7.75 (Including PCB manufacturing shipping/taxes)
 
 

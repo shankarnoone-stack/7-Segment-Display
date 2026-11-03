@@ -1,4 +1,4 @@
 Item,Qty,Supplier,Cost/item,Total Cost,link
 PCB,1,JLCPCB,$4.00,$4.00,https://jlcpcb.com
-Estimated total shipping,1,,$0.00,$0.00,
+Raspberry Pi Pico,1,Adafruit,$5.00,$5.00,https://www.adafruit.com/product/4883
 Estimated total shipping,1,,,$7.75,
